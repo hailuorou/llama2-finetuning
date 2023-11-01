@@ -1,0 +1,9 @@
+.idea
+**.pyc
+**.json
+results/
+outputs/
+quantization/awq/kernels/awq_inference_engine.egg-info
+quantization/awq/kernels/build
+**.tsv
+**.egg
